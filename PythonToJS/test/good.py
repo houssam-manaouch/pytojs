@@ -1,0 +1,3 @@
+x: int
+x = 3
+print(str(x))
